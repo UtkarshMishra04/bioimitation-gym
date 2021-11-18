@@ -127,6 +127,8 @@ If you use this work in your research, please cite the following as:
     title = {BioImitation-Gym: A OpenAI-Gym Package for Training and Testing Reinforcement Learning algorithms with OpenSim Models},
     author = {Utkarsh A. Mishra and Dimitar Stanev and Auke Ijspeert},
     year = {2021},
+    publisher = {GitHub},
+    journal = {GitHub repository},
     url = {https://github.com/UtkarshMishra/bioimitation-gym}
 }
 ```

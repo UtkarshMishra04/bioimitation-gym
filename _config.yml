@@ -1,4 +1,4 @@
 theme: jekyll-theme-cayman
 title: [BioImitation-Gym]
-description: [A OpenAI-Gym Package for Training and Testing Reinforcement Learning algorithms with OpenSim Models]
+description: [An OpenAI-Gym Package for Training and Testing Reinforcement Learning algorithms with OpenSim Models]
 show_downloads: ["true"]
