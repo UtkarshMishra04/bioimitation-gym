@@ -1,8 +1,8 @@
 ![Logo](./assets/logo.png)
 
-**Authors**: [Utkarsh A. Mishra](https://utkarshmishra04.github.io) and [Dimitar Stanev](https://www.epfl.ch/labs/biorob/people/stanev/)
+**Authors**: [Utkarsh A. Mishra](https://utkarshmishra04.github.io) and [Dr. Dimitar Stanev](https://www.epfl.ch/labs/biorob/people/stanev/)
 
-**Advisor**: [Prof. Auke Ijspeert](https://www.epfl.ch/labs/biorob/people/ijspeert/), Biorobotics Laboratory (BioRob), EPFL
+**Advisors**: [Dr. Dimitar Stanev](https://www.epfl.ch/labs/biorob/people/stanev/) and [Prof. Auke Ijspeert](https://www.epfl.ch/labs/biorob/people/ijspeert/), Biorobotics Laboratory (BioRob), EPFL
 
 **Video Playlist**: [https://www.youtube.com/playlist?list=PLDvnH871wUkFPOcCKcsTN6ZzzjNZOVlt_](https://www.youtube.com/playlist?list=PLDvnH871wUkFPOcCKcsTN6ZzzjNZOVlt_)
 
